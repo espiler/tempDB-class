@@ -1,0 +1,14 @@
+{
+  "name": "thumbtackDB",
+  "version": "0.0.1",
+  "description": "A basic in-memory database",
+  "author": "Evan Spiler",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+  },
+  "bin": {
+    "tempDB-class": "index.js"
+  }
+}
