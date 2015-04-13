@@ -1,5 +1,5 @@
 {
-  "name": "thumbtackDB",
+  "name": "tempdb-class",
   "version": "0.0.1",
   "description": "A basic in-memory database",
   "author": "Evan Spiler",
@@ -9,6 +9,6 @@
   "dependencies": {
   },
   "bin": {
-    "tempDB-class": "index.js"
+    "tempdb-class": "index.js"
   }
 }
