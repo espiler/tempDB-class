@@ -28,7 +28,7 @@ function Database() {
   }
 
   this.get = function(key) {
-    return this.data[key] || null;
+    return this.data[key] || 'NULL';
   }
 
   this.unset = function(key) {
