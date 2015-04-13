@@ -1,6 +1,6 @@
 {
   "name": "tempdb-class",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A basic in-memory database",
   "author": "Evan Spiler",
   "engines": {
